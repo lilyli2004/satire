@@ -2,6 +2,15 @@
 
 This project uses [this](https://github.com/lilyli2004/mmf) fork of Facebook's MMF framework.
 
+### Our dataset on HuggingFace🤗
+Our dataset is available on the [HuggingFace's Datasets hub](https://huggingface.co/datasets). Here is an example of how you can load the [dataset]():
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("phosseini/multimodal_satire")
+```
+
 ### How to cite our work?
 You can cite our [paper](https://www.aclweb.org/anthology/2020.nlp4if-1.4/):
 
