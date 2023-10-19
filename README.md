@@ -3,7 +3,7 @@
 This project uses [this](https://github.com/lilyli2004/mmf) fork of Facebook's MMF framework.
 
 ### Our dataset on HuggingFace🤗
-Our dataset is available on the [HuggingFace's Datasets hub](https://huggingface.co/datasets). Here is an example of how you can load the [dataset]():
+Our dataset is available on the [HuggingFace's Datasets hub](https://huggingface.co/datasets). Here is an example of how you can load the [dataset](https://huggingface.co/datasets/phosseini/multimodal_satire):
 
 ```python
 from datasets import load_dataset
